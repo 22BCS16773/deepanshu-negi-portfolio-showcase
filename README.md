@@ -1,8 +1,8 @@
-# Welcome to your Lovable project
+# Welcome to my portfolio project
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/badea036-3bde-4edc-bde6-f9441c70cf42
+**URL**: https://deepanshu-negi-portfolio-showcase.vercel.app/
 
 # 🚀 My React + Vite + TypeScript Project
 
